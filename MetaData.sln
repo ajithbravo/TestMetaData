@@ -1,5 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaDataAttributes", "MetaDataAttributes\MetaDataAttributes.csproj", "{40ADBE2F-064A-4BAC-A71F-E75BA014E59E}"
 EndProject
 Global
@@ -12,5 +15,11 @@ Global
 		{40ADBE2F-064A-4BAC-A71F-E75BA014E59E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40ADBE2F-064A-4BAC-A71F-E75BA014E59E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40ADBE2F-064A-4BAC-A71F-E75BA014E59E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9DCA4FDD-A6FA-44B3-ADD2-CC748C82C057}
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,29 @@
+{
+  "DataBaseResponse": [
+    {
+      "PlatFormName": "Retail",
+      "AppName": "ApplicationOne",
+      "FeatureName": "NewQuote",
+      "PlatFomId": "100",
+      "AppId": "110",
+      "FeatureId": "200"
+    },
+    {
+      "PlatFormName": "Retail",
+      "AppName": "ApplicationTwo",
+      "FeatureName": "NewQuote",
+      "PlatFomId": "100",
+      "AppId": "120",
+      "FeatureId": "200"
+    },
+    {
+      "PlatFormName": "Markting",
+      "AppName": "ApplicationTwo",
+      "FeatureName": "ProductLogin",
+      "PlatFomId": "200",
+      "AppId": "120",
+      "FeatureId": "400"
+    }
+
+  ]
+}
